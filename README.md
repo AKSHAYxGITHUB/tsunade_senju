@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg" alt="tsunade_senju Logo">
 </p>
 <h1 align="center">
-  <b>DQ-The-File-Donor Bot</b>
+  <b>TSUNADE SENJU Bot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+TSUNADE+SENJU!;Created+by+MAYAVI333!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
-[![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
-[![Forks](https://img.shields.io/github/forks/Joelkb/DQ-The-File-Donor?style=flat-square&color=orange)](https://github.com/Joelkb/DQ-The-File-Donor/fork)
-[![Size](https://img.shields.io/github/repo-size/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Joelkb/DQ-The-File-Donor)   
-[![Contributors](https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Joelkb/DQ-The-File-Donor/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Joelkb/DQ-The-File-Donor.svg)](https://stars.medv.io/Joelkb/DQ-The-File-Donor)
+[![Stars](https://img.shields.io/github/stars/mayavi33/tsunade_senju?style=flat-square&color=yellow)](https://github.com/mayavi33/tsunade_senju/stargazers)
+[![Forks](https://img.shields.io/github/forks/mayavi33/tsunade_senju?style=flat-square&color=orange)](https://github.com/mayavi33/tsunade_senju/fork)
+[![Size](https://img.shields.io/github/repo-size/mayavi33/tsunade_senju?style=flat-square&color=green)](https://github.com/mayavi33/tsunade_senju/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mayavi33/tsunade_senju)   
+[![Contributors](https://img.shields.io/github/contributors/mayavi33/tsunade_senju?style=flat-square&color=green)](https://github.com/mayavi33/tsunade_senju/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/mayavi33/tsunade_senju/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/mayavi33/tsunade_senju.svg)](https://stars.medv.io/mayavi33/tsunade_senju)
 
 ## Features
 - [x] IMDB Template Set
@@ -53,7 +53,7 @@
 - [x] Auto Delete
 - [x] And More...
 
-<b>To know about all features, Join our <a href='https://telegram.me/DQ_The_File_Donor_Updates'>updates channel</a>.</b>
+<b>To know about all features, Join our <a href='https://telegram.me/KOMBOTZZ'>updates channel</a>.</b>
 
 ## Commands
 ```
@@ -116,7 +116,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/mayavi33/tsunade_senju">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -133,13 +133,13 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=koyeb&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mayavi333/tsunade_senju&branch=main&name=dqthefiledonor)
 </details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
+git clone https://github.com/mayavi333/tsunade_senju
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -152,8 +152,8 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![LUTTAPPI](https://img.shields.io/static/v1?label=MAYAVI333&message=Github&color=critical)](https://github.com/mayavi333)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/lauttappixtg)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
@@ -166,7 +166,7 @@ python3 bot.py
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/luttappixtg)
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
