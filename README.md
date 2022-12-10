@@ -8,13 +8,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+TSUNADE+SENJU!;Created+by+MAYAVI333!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
-[![Stars](https://img.shields.io/github/stars/mayavi33/tsunade_senju?style=flat-square&color=yellow)](https://github.com/mayavi33/tsunade_senju/stargazers)
-[![Forks](https://img.shields.io/github/forks/mayavi33/tsunade_senju?style=flat-square&color=orange)](https://github.com/mayavi33/tsunade_senju/fork)
-[![Size](https://img.shields.io/github/repo-size/mayavi33/tsunade_senju?style=flat-square&color=green)](https://github.com/mayavi33/tsunade_senju/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mayavi33/tsunade_senju)   
-[![Contributors](https://img.shields.io/github/contributors/mayavi33/tsunade_senju?style=flat-square&color=green)](https://github.com/mayavi33/tsunade_senju/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/mayavi333/tsunade_senju?style=flat-square&color=yellow)](https://github.com/mayavi333/tsunade_senju/stargazers)
+[![Forks](https://img.shields.io/github/forks/mayavi33/tsunade_senju?style=flat-square&color=orange)](https://github.com/mayavi333/tsunade_senju/fork)
+[![Size](https://img.shields.io/github/repo-size/mayavi333/tsunade_senju?style=flat-square&color=green)](https://github.com/mayavi333/tsunade_senju/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mayavi333/tsunade_senju)   
+[![Contributors](https://img.shields.io/github/contributors/mayavi333/tsunade_senju?style=flat-square&color=green)](https://github.com/mayavi333/tsunade_senju/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/mayavi33/tsunade_senju/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/mayavi33/tsunade_senju.svg)](https://stars.medv.io/mayavi33/tsunade_senju)
+[![Sparkline](https://stars.medv.io/Mayavi333/tsunade_senju.svg)](https://stars.medv.io/Mayavi333/tsunade_senju)
 
 ## Features
 - [x] IMDB Template Set
@@ -110,7 +110,7 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
+* Check [info.py](https://github.com/mayavi333/tsunade_senju/blob/main/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
